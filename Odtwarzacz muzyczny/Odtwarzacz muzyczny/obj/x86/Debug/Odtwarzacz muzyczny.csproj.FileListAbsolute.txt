@@ -1,0 +1,24 @@
+C:\Users\Grzesiek\AppData\Local\Temporary Projects\Odtwarzacz muzyczny\bin\Debug\Odtwarzacz muzyczny.exe
+C:\Users\Grzesiek\AppData\Local\Temporary Projects\Odtwarzacz muzyczny\bin\Debug\Odtwarzacz muzyczny.pdb
+C:\Users\Grzesiek\AppData\Local\Temporary Projects\Odtwarzacz muzyczny\obj\x86\Debug\Odtwarzacz_muzyczny.Form1.resources
+C:\Users\Grzesiek\AppData\Local\Temporary Projects\Odtwarzacz muzyczny\obj\x86\Debug\Odtwarzacz_muzyczny.Properties.Resources.resources
+C:\Users\Grzesiek\AppData\Local\Temporary Projects\Odtwarzacz muzyczny\obj\x86\Debug\Odtwarzacz muzyczny.csproj.GenerateResource.Cache
+C:\Users\Grzesiek\AppData\Local\Temporary Projects\Odtwarzacz muzyczny\obj\x86\Debug\Odtwarzacz muzyczny.exe
+C:\Users\Grzesiek\AppData\Local\Temporary Projects\Odtwarzacz muzyczny\obj\x86\Debug\Odtwarzacz muzyczny.pdb
+C:\Users\Grzesiek\AppData\Local\Temporary Projects\Odtwarzacz muzyczny\bin\Debug\Interop.WMPLib.dll
+C:\Users\Grzesiek\AppData\Local\Temporary Projects\Odtwarzacz muzyczny\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Grzesiek\AppData\Local\Temporary Projects\Odtwarzacz muzyczny\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Grzesiek\AppData\Local\Temporary Projects\Odtwarzacz muzyczny\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Grzesiek\AppData\Local\Temporary Projects\Odtwarzacz muzyczny\obj\x86\Debug\Odtwarzacz muzyczny.csproj.ResolveComReference.cache
+C:\Users\Grzesiek\documents\visual studio 2010\Projects\Odtwarzacz muzyczny\Odtwarzacz muzyczny\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Grzesiek\documents\visual studio 2010\Projects\Odtwarzacz muzyczny\Odtwarzacz muzyczny\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Grzesiek\documents\visual studio 2010\Projects\Odtwarzacz muzyczny\Odtwarzacz muzyczny\obj\x86\Debug\Odtwarzacz muzyczny.csproj.ResolveComReference.cache
+C:\Users\Grzesiek\documents\visual studio 2010\Projects\Odtwarzacz muzyczny\Odtwarzacz muzyczny\obj\x86\Debug\Odtwarzacz muzyczny.exe
+C:\Users\Grzesiek\documents\visual studio 2010\Projects\Odtwarzacz muzyczny\Odtwarzacz muzyczny\obj\x86\Debug\Odtwarzacz muzyczny.pdb
+C:\Users\Grzesiek\documents\visual studio 2010\Projects\Odtwarzacz muzyczny\Odtwarzacz muzyczny\bin\Debug\Odtwarzacz muzyczny.exe
+C:\Users\Grzesiek\documents\visual studio 2010\Projects\Odtwarzacz muzyczny\Odtwarzacz muzyczny\bin\Debug\Odtwarzacz muzyczny.pdb
+C:\Users\Grzesiek\documents\visual studio 2010\Projects\Odtwarzacz muzyczny\Odtwarzacz muzyczny\bin\Debug\Interop.WMPLib.dll
+C:\Users\Grzesiek\documents\visual studio 2010\Projects\Odtwarzacz muzyczny\Odtwarzacz muzyczny\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Grzesiek\documents\visual studio 2010\Projects\Odtwarzacz muzyczny\Odtwarzacz muzyczny\obj\x86\Debug\Odtwarzacz_muzyczny.Form1.resources
+C:\Users\Grzesiek\documents\visual studio 2010\Projects\Odtwarzacz muzyczny\Odtwarzacz muzyczny\obj\x86\Debug\Odtwarzacz_muzyczny.Properties.Resources.resources
+C:\Users\Grzesiek\documents\visual studio 2010\Projects\Odtwarzacz muzyczny\Odtwarzacz muzyczny\obj\x86\Debug\Odtwarzacz muzyczny.csproj.GenerateResource.Cache
